@@ -1,0 +1,8 @@
+#rma-widget, #ad-container {
+    width: 320px;
+    height: 480px;
+}
+
+            #main-up span:before {
+                content: "\f106";
+            }

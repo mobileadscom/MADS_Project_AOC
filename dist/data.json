@@ -1,0 +1,19 @@
+json_data = {
+  "bg01": "img/bg01.png",
+  "bg02": "img/bg02.png",
+  "clickthrough": "https://www.test.com",
+  "watchBtn" : "img/watch-button.png",
+  "storeBtn" : "img/store-button.png",
+  "clickthroughBtn" : "img/fb-button.png",
+  "video":"img/Carnival_30secs.mp4",
+  "map01":"img/map01-01.png",
+  "map02":"img/map01-02.png",
+  "map03":"img/map01-03.png",
+  "loc01":"img/loc01.png",
+  "loc02":"img/loc02.png",
+  "loc03":"img/loc03.png",
+  "loc04":"img/loc04.png",
+  "loc05":"img/loc05.png",
+  "loc06":"img/loc06.png",
+  "back":""
+}
